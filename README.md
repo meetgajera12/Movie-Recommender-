@@ -56,17 +56,6 @@ The dataset contains:
 
 ---
 
-## 📸 Screenshots
-
-### Home Page
-
-![Home Page](screenshots/home.png)
-
-### Recommendations
-
-![Recommendations](screenshots/recommendation.png)
-
----
 
 ## 📁 Project Structure
 
